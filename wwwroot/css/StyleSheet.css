@@ -1,0 +1,176 @@
+﻿body{
+    margin: 0;
+}
+
+/* Для навигации */
+
+.nav{
+    box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.5);
+    border-bottom: 1px solid gray;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+    opacity: 100;
+    z-index: 9999;
+}
+.Menu
+{
+   font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 100px;
+    display:flex;
+    margin-right: 100px;
+    padding: 15 0 15 0;
+}
+.Menu a{
+    
+    color: Black;
+}
+.Menu ul{
+    display: flex;
+}
+.Menu ul li a{
+    margin-right: 52px;
+    list-style-type: none;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-style: 14px;
+}
+.Menu ul li {
+    list-style-type: none;
+}
+
+
+.site{
+    margin: 0px;
+}
+.Udovychenko{
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: auto;
+    padding-right: 5px;
+}
+ul, li
+{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.logoimg{
+    height: 25px;
+}
+.Content{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+/* Для первой страниц*/
+
+
+.About {
+   padding-top: 489px;
+    font-family:'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 51px;
+    text-align: center;
+    opacity: 0;
+    transform: translateY(20px);
+}
+
+
+.AboutWhat{
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 51px;
+    
+}
+
+/* Инструкция*/
+.BackGray{
+    background-color: #f7f9fb;
+}
+.Instruction{
+    margin-top: 640;
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    text-align: center;
+}
+
+.Before{
+    padding-top: 30px;
+    opacity: 0;
+    transform: translateY(20px);   
+}
+
+.Instruction div{
+    margin-top: 40px;
+}
+
+.FirstInst {
+    display: flex;
+    text-align: left;   
+    opacity: 0;
+    transform: translateY(20px); 
+}
+
+.FirstText {
+    display: block;
+    margin-top: 150px;  
+}
+
+.FirstInst img{
+    margin-left: auto;
+    height: 400;
+}
+
+.SecondInst{
+display: flex;
+text-align: right;
+opacity: 0;
+transform: translateY(20px); 
+}
+.SecondText {
+    margin-top: 190px;  
+}
+.SecondInst img{
+    margin-right: auto;
+    height: 400;
+}
+
+.Begin{
+    padding-bottom: 30px;
+    opacity: 0;
+    transform: translateY(20px); 
+}
+
+.Download{
+    text-align: center;
+    margin-top: 420;
+    margin-bottom: 500px;
+    opacity: 0;
+    transform: translateY(20px); 
+}
+.ForDesktopV2{
+    height: 100;
+    margin-right: 20px;
+}
+.ForPhoneV2{
+    height: 100;
+    margin-left: 20px;
+}
+
+.visible{
+    opacity: 1;
+    transition:all 1.5s;
+    transform: translateY(0%);
+  }
