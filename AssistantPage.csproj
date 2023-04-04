@@ -15,6 +15,7 @@
   <ItemGroup>
     <Folder Include="wwwroot\img\" />
     <Folder Include="wwwroot\Download\" />
+    <Folder Include="wwwroot\ForSite\" />
   </ItemGroup>
 
 </Project>

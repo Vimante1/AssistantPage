@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PJzKnptPGiwtLaFY9Fnaij4pQmitSS+25IVzjbrISrU=",
+  "Hash": "oKzafeZtXD1khwx9lkydyRtQzbYlh2pfOHgStyuv0s0=",
   "Source": "AssistantPage",
   "BasePath": "_content/AssistantPage",
   "Mode": "Default",
@@ -16,40 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\css\\StyleSheet.css",
-      "SourceId": "AssistantPage",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
-      "BasePath": "_content/AssistantPage",
-      "RelativePath": "css/StyleSheet.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
-    },
-    {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\Download\\Udovychenko.rar",
-      "SourceId": "AssistantPage",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
-      "BasePath": "_content/AssistantPage",
-      "RelativePath": "Download/Udovychenko.rar",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Download\\Udovychenko.rar"
-    },
     {
       "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\favicon.ico",
       "SourceId": "AssistantPage",
@@ -68,12 +34,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\img\\ForDesktopV2.svg",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\css\\StyleSheet.css",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "img/ForDesktopV2.svg",
+      "RelativePath": "ForSite/css/StyleSheet.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,15 +48,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\ForDesktopV2.svg"
+      "OriginalItemSpec": "wwwroot\\ForSite\\css\\StyleSheet.css"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\img\\ForPhoneV2.svg",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\Download\\Udovychenko.rar",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "img/ForPhoneV2.svg",
+      "RelativePath": "ForSite/Download/Udovychenko.rar",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +65,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\ForPhoneV2.svg"
+      "OriginalItemSpec": "wwwroot\\ForSite\\Download\\Udovychenko.rar"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\img\\Icon2 (1).svg",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\img\\ForDesktopV2.svg",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "img/Icon2 (1).svg",
+      "RelativePath": "ForSite/img/ForDesktopV2.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +82,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Icon2 (1).svg"
+      "OriginalItemSpec": "wwwroot\\ForSite\\img\\ForDesktopV2.svg"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\img\\image 1.png",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\img\\ForPhoneV2.svg",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "img/image 1.png",
+      "RelativePath": "ForSite/img/ForPhoneV2.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\image 1.png"
+      "OriginalItemSpec": "wwwroot\\ForSite\\img\\ForPhoneV2.svg"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\img\\image2.png",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\img\\Icon2 (1).svg",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "img/image2.png",
+      "RelativePath": "ForSite/img/Icon2 (1).svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\image2.png"
+      "OriginalItemSpec": "wwwroot\\ForSite\\img\\Icon2 (1).svg"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\img\\image 1.png",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "js/site.js",
+      "RelativePath": "ForSite/img/image 1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
+      "OriginalItemSpec": "wwwroot\\ForSite\\img\\image 1.png"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\img\\image2.png",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
+      "RelativePath": "ForSite/img/image2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "wwwroot\\ForSite\\img\\image2.png"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\js\\site.js",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "RelativePath": "ForSite/js/site.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "wwwroot\\ForSite\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,15 +184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -252,15 +218,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -269,15 +235,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,15 +252,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,15 +269,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -320,15 +286,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,15 +303,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -354,15 +320,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -371,15 +337,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -388,15 +354,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -405,15 +371,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -422,15 +388,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -439,15 +405,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -456,15 +422,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -473,15 +439,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -490,15 +456,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -507,15 +473,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -524,15 +490,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -541,15 +507,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -558,15 +524,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -575,15 +541,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -592,15 +558,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -609,15 +575,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -626,15 +592,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -643,15 +609,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -660,15 +626,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -677,15 +643,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -694,15 +660,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -711,15 +677,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -728,15 +694,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "RelativePath": "ForSite/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -745,15 +711,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "RelativePath": "ForSite/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -762,15 +728,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "RelativePath": "ForSite/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -779,15 +745,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
+      "RelativePath": "ForSite/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -796,15 +762,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "RelativePath": "ForSite/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -813,15 +779,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "RelativePath": "ForSite/lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -830,15 +796,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "RelativePath": "ForSite/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -847,15 +813,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
+      "RelativePath": "ForSite/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -864,15 +830,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
+      "RelativePath": "ForSite/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -881,15 +847,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
+      "RelativePath": "ForSite/lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -898,15 +864,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "RelativePath": "ForSite/lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -915,15 +881,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/bootstrap/LICENSE",
+      "RelativePath": "ForSite/lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -932,15 +898,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/jquery/dist/jquery.js",
+      "RelativePath": "ForSite/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -949,15 +915,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\bootstrap\\LICENSE",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/jquery/dist/jquery.min.js",
+      "RelativePath": "ForSite/lib/bootstrap/LICENSE",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -966,15 +932,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/jquery/dist/jquery.min.map",
+      "RelativePath": "ForSite/lib/jquery/dist/jquery.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -983,15 +949,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/jquery/LICENSE.txt",
+      "RelativePath": "ForSite/lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1000,15 +966,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
+      "RelativePath": "ForSite/lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1017,15 +983,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\jquery\\LICENSE.txt",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
+      "RelativePath": "ForSite/lib/jquery/LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1034,15 +1000,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
+      "RelativePath": "ForSite/lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1051,15 +1017,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "RelativePath": "ForSite/lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1068,15 +1034,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/jquery-validation/LICENSE.md",
+      "RelativePath": "ForSite/lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1085,15 +1051,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "RelativePath": "ForSite/lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1102,15 +1068,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "RelativePath": "ForSite/lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1119,15 +1085,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "AssistantPage",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
       "BasePath": "_content/AssistantPage",
-      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "RelativePath": "ForSite/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1136,7 +1102,41 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "AssistantPage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
+      "BasePath": "_content/AssistantPage",
+      "RelativePath": "ForSite/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\ForSite\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "AssistantPage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Viman\\source\\repos\\AssistantPage\\wwwroot\\",
+      "BasePath": "_content/AssistantPage",
+      "RelativePath": "ForSite/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ForSite\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     }
   ]
 }
